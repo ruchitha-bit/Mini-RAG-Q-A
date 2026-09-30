@@ -1,4 +1,7 @@
 streamlit
-sentence-transformer
+sentence-transformers
 chromadb
 ollama
+numpy
+scipy
+scikit-learn
